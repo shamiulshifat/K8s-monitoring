@@ -8,5 +8,10 @@ Once you have installed the krew validate if the installation is successful by i
 
 follow this:
 
+tool 1: resource-capacity
+
 https://www.middlewareinventory.com/blog/cpu-memory-usage-nodes-k8s/
 
+tool 2:  kube-capacity
+
+https://github.com/robscott/kube-capacity
